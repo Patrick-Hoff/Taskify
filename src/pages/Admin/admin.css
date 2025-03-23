@@ -1,0 +1,57 @@
+.admin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 48px;   
+}
+
+.admin-container h1 {
+    margin-bottom: 28px;
+}
+
+.btn-register {
+    margin-bottom: 28px;
+}
+
+.list {
+    width: 90%;
+    max-width: 600px;
+    display: flex;
+    background-color: #333;
+    border-radius: 4px;
+    margin-bottom: 12px;
+    justify-content: space-between;
+    padding: 14px 18px;
+    overflow: auto;
+}
+
+
+
+.btn-icon {
+    font-size: 1.6rem;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.btn-logout {
+    position: fixed;
+    bottom: 6%;
+    left: 4%;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: 0;
+    font-weight: bold;
+    background: rgba(219,38,41,0.35);
+    color: #fafafa;
+    transition: all 0.5s;
+}
+
+.btn-logout:hover {
+    background: rgba(219,38,41,1);
+    color: #fff;
+}
+
+.btn-logout-son {
+    font-size: 2.5rem;
+}

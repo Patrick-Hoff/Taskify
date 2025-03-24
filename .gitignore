@@ -23,4 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-firebaseConnection.jsx
+# Local Netlify folder
+.netlify
+
+#dist
+.dist

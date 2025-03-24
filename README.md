@@ -82,7 +82,7 @@ npm run dev
 
 Futuras atualizações
 
-:memo: Tarefa 1: Adicionar uma nova página onde, ao clicar em "Pronto" em uma tarefa, o texto dessa tarefa seja movido para essa página e marcado como "Pronto". 
+:memo: Tarefa 1: Adicionar uma nova página onde, ao clicar em "Pronto" em uma tarefa, o texto dessa tarefa seja movido para outra página e marcado como "Pronto". 
 
 :memo: Tarefa 2: Implementar funcionalidade de recuperação de senha, permitindo que os usuários possam solicitar um link para redefinir a senha caso a esqueçam.
 

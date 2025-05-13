@@ -50,7 +50,6 @@
 
 ## Pré-requisitos
 
-- [Node.js](https://nodejs.org/en/download/)
 - [React](https://reactjs.org/docs/getting-started.html)
 - [Vite](https://vitejs.dev/guide/)
 - [Firebase](https://firebase.google.com/docs/web/setup)
